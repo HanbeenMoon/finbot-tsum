@@ -1,0 +1,68 @@
+{
+  "model": "gpt-4o-mini",
+  "results": [
+    {
+      "corp_name": "LG에너지솔루션",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\LG에너지솔루션.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\LG에너지솔루션_qa.json",
+      "qa_count": 50
+    },
+    {
+      "corp_name": "LG화학",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\LG화학.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\LG화학_qa.json",
+      "qa_count": 50
+    },
+    {
+      "corp_name": "POSCO홀딩스",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\POSCO홀딩스.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\POSCO홀딩스_qa.json",
+      "qa_count": 50
+    },
+    {
+      "corp_name": "SK하이닉스",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\SK하이닉스.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\SK하이닉스_qa.json",
+      "qa_count": 50
+    },
+    {
+      "corp_name": "기아",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\기아.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\기아_qa.json",
+      "qa_count": 50
+    },
+    {
+      "corp_name": "네이버",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\네이버.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\네이버_qa.json",
+      "qa_count": 50
+    },
+    {
+      "corp_name": "삼성SDI",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\삼성SDI.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\삼성SDI_qa.json",
+      "qa_count": 50
+    },
+    {
+      "corp_name": "삼성바이오로직스",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\삼성바이오로직스.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\삼성바이오로직스_qa.json",
+      "qa_count": 50
+    },
+    {
+      "corp_name": "삼성전자",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\삼성전자.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\삼성전자_qa.json",
+      "qa_count": 50
+    },
+    {
+      "corp_name": "현대차",
+      "source_file": "C:\\Users\\user\\HANBEEN\\data\\reports\\현대차.txt",
+      "qa_file": "C:\\Users\\user\\HANBEEN\\data\\qa\\현대차_qa.json",
+      "qa_count": 50
+    }
+  ],
+  "failures": [],
+  "total_pairs": 500,
+  "all_qa_path": "C:\\Users\\user\\HANBEEN\\data\\qa\\all_qa.json"
+}
